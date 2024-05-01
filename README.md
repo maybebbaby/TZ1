@@ -28,7 +28,6 @@
 Запуск скрипта с директорией `/path/to/input` как входной и `/path/to/output` как выходной:
 
 ```bash
-Copy code
 ./script_name.sh /path/to/input /path/to/output 
 ```
 
